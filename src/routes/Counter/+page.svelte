@@ -3,7 +3,7 @@
 </script>
 
 <section class="flex flex-col justify-center items-center absolute inset-0">
-	<h1 class="text-blue-100 font-serif text-3xl capitalize select-none">
+	<h1 class="text-blue-100 font-serif text-4xl capitalize select-none">
 		welcome to the <span class="font-extrabold text-cyan-200">"test project"</span>
 	</h1>
 

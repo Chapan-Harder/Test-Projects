@@ -23,9 +23,19 @@
 			>counter</a
 		>
 		<a
+			href="Inputs"
+			class="text-blue-100 font-serif font-normal text-lg capitalize mr-4 select-none cursor-ponycursorpointer"
+			>inputs</a
+		>
+		<a
 			href="Calculator"
 			class="text-blue-100 font-serif font-normal text-lg capitalize mr-4 select-none cursor-ponycursorpointer"
 			>calculator</a
+		>
+		<a
+			href="Clock"
+			class="text-blue-100 font-serif font-normal text-lg capitalize mr-4 select-none cursor-ponycursorpointer"
+			>clock</a
 		>
 	</section>
 
